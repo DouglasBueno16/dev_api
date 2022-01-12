@@ -1,0 +1,9 @@
+REST x RESTful
+
+- REST é um estilo arquitetonica para se desenvolver APIs
+- RESTful é um serviço web que utiliza a arquitetura REST para implementar webservices.
+
+
+Flask-RESTful
+
+- Suporte para uma construção rápida de REST APIs 
